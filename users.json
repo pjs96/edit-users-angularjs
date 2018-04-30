@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "firstName": "Matthew",
+            "lastName": "Murdock",
+            "birthDate": "01-01-2001",
+            "address": "Warszawa, Polna 8"
+        },
+        {
+            "firstName": "Jessica",
+            "lastName": "Jones",
+            "birthDate": "02-02-2002",
+            "address": "Bydgoszcz, Prosta 9"
+        },
+        {
+            "firstName": "Luke",
+            "lastName": "Cage",
+            "birthDate": "03-03-2003",
+            "address": "Zakopane, Krakowska 10"
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Rand",
+            "birthDate": "04-04-2004",
+            "address": "Tuchola, Chojnica 12"
+        }
+    ]
+}
